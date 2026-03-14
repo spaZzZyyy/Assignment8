@@ -69,6 +69,10 @@ main, header, nav, article, aside, footer, section {
   padding: 1%;
 }
 
+main, header, footer {
+  width: 1140px;
+}
+
 h1 {
   flex: 5;
   text-transform: uppercase;

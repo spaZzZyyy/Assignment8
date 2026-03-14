@@ -17,6 +17,7 @@ body {
   width: 70%;
   min-width: 800px;
   margin: 0 auto;
+  
 }
 
 /* || typography */
@@ -116,9 +117,10 @@ nav a, nav span {
 
 /* || main layout */
 
+
 main {
   display: flex;
-}
+} 
 
 
 article, section {
@@ -133,7 +135,7 @@ aside {
 
 aside a {
   display: block;
-  float: right;
+  float: left;
   width: 50%;
 }
 
@@ -156,5 +158,6 @@ main {
   padding: 1%;
   display: flex;
   flex-wrap: wrap;
+  max-width: fit-content;
 }
 

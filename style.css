@@ -17,7 +17,7 @@ body {
   width: 70%;
   min-width: 800px;
   margin: 0 auto;
-  
+
 }
 
 /* || typography */
@@ -120,7 +120,7 @@ nav a, nav span {
 
 main {
   display: flex;
-} 
+}
 
 
 article, section {
